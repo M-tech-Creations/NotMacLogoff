@@ -1,0 +1,16 @@
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\bin\Debug\NotMacLogoff.exe
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\bin\Debug\NotMacLogoff.pdb
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\ResolveAssemblyReference.cache
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.Form1.resources
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.Properties.Resources.resources
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.csproj.GenerateResource.Cache
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.exe
+\\ilabss\home$\D03212433\Documents\Visual Studio 2008\Projects\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.pdb
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.exe
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.pdb
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\bin\Debug\NotMacLogoff.exe
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\bin\Debug\NotMacLogoff.pdb
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\ResolveAssemblyReference.cache
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.Form1.resources
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.Properties.Resources.resources
+H:\tools\NotLogout\NotMacLogoff\NotMacLogoff\obj\Debug\NotMacLogoff.csproj.GenerateResource.Cache
